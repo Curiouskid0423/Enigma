@@ -5,5 +5,5 @@ The project utilizes some data structures such as Hashmap, ArrayList, in order t
 
 Visualization of how Enigma encryption works (with the German Navy version)
 [Screenshot for this project](./EnigmaCode.png)
-<br><img src="./EnigmaCode.png" width="280" height="300">
+<br><img src="./EnigmaCode.png" width="600" height="300">
 
