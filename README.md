@@ -1,5 +1,5 @@
 # Enigma
-### Data Structure class project at UC Berkeley
+### Data Structure class project
 A reimplementation of the Enigma Machine that Germany used in WWII to encrypt its military communications. 
 The project utilizes some data structures such as Hashmap, ArrayList, in order to implement most of the Enigma machine's feature.
 
